@@ -3,14 +3,14 @@
 A web and SMS-based school fees and attendance management prototype with early-warning alerts for schools in Uganda.
 Class project, Principles of Software Engineering, Victoria University, Kampala.
 
-**Live demo:** [https://emmanuel9adupa.github.io/Schooltrack/]
+**Live demo:** https://YOUR-USERNAME.github.io/schooltrack/
 
 ## Run it
 - Online: open the GitHub Pages link above.
 - Locally: double-click `index.html`. No install or server is needed.
 
 ## Roles to try
-Head Teacher, Bursar, Class Teacher, Parent/Guardian (sign in by choosing a role; sample data).
+Head Teacher, Bursar, Class Teacher, Parent/Guardian (create an account and sign in, or use the demo role buttons on the sign-in page; sample data).
 
 ## Notes
 - Prototype only: data is saved in the browser (localStorage), SMS and USSD are simulated, and there is no real back end.
